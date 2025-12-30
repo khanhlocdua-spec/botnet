@@ -1,6 +1,3 @@
 {
-  "action": "attack",
-  "url": "http://142.171.195.145",
-  "tasks": 1000,
-  "time": 1767097445.1422448
+  "action": "stop"
 }
