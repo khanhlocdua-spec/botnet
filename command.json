@@ -1,6 +1,4 @@
 {
-  "action": "attack",
-  "url": "http://sip",
-  "tasks": 2000,
-  "timestamp": 1767098047.9625337
+  "action": "stop",
+  "timestamp": 1767098060.4752157
 }
