@@ -1,6 +1,4 @@
 {
-  "action": "attack",
-  "url": "http:///stop",
-  "tasks": 1000,
-  "timestamp": 1767099663.230346
+  "action": "stop",
+  "timestamp": 1767099670.5176766
 }
