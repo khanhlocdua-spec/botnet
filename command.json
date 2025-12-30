@@ -1,0 +1,5 @@
+{
+  "action": "check",
+  "url": "https://example.com",
+  "interval": 5
+}
